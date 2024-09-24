@@ -1,5 +1,5 @@
 # Hi, I'm Liam! 👋
-I'm a Computer Science and Physics Combined Major @ UBC, SWE @ Base Power, who builds a cool project here and there :)
+I'm a Computer Science and Physics Combined Major @ UBC, Ex-SWE @ Base Power, who builds a cool project here and there :)
 
 You may know me from:
 - [Crumb](https://github.com/liam-ilan/crumb), a high level, functional, interpreted, dynamically typed, general-purpose programming language, with a terse syntax, and a verbose standard library.
